@@ -1,9 +1,15 @@
-### Hi there! 👋
+# 👋 Hey, I’m John — Gameplay Programmer  
+**Unity (C#) • Unreal Engine 5 (C++)**
 
-I'm John Pandis, a game developer passionate about crafting immersive gaming experiences. I've studied Game Development
-at IEK AKMI in Thessaloniki and earned certification as a Pearson Certified game developer. I'm a self-taught developer 
-with a focus on Unity, specializing in mechanics, UI, and tool development. While I'm curious about Unreal Engine and C++,
-my expertise shines in the world of C# and Unity.
+I build gameplay systems, tools, and rapid prototypes in Unity and Unreal Engine. I’ve shipped a **commercial real-money casino title** as the gameplay programmer and contributed features to a **Steam racing game**. On the Unreal side, I develop C++ gameplay prototypes focused on AI, movement, and combat.
 
-I'm driven to create captivating gaming experiences and push the boundaries of game development. Let's connect and explore 
-exciting opportunities to collaborate on GitHub. 🎮
+### What I work on
+- **Gameplay systems** with clean, modular architecture  
+- **Responsive controls** and strong gameplay feel  
+- **Tools & pipelines** that speed up team development  
+- **Production-ready features** delivered under real constraints  
+
+### On this GitHub
+You’ll find prototypes, gameplay systems, and experiments across Unity and UE5 (C++), as I continuously refine and expand my craft.
+
+---
