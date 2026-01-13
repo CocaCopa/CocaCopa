@@ -19,7 +19,6 @@ I focus on writing clear, maintainable gameplay code, owning systems end-to-end,
 - WebGL / WebGPU
 - Socket.IO
 - JavaScript
-- Unreal Engine 5 (C++)
 
 ## How I work  
 
