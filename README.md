@@ -1,15 +1,31 @@
 # 👋 Hey, I’m John — Gameplay Programmer  
-**Unity (C#) • Unreal Engine 5 (C++)**
+**Unity (C#)**
 
-I build gameplay systems, tools, and rapid prototypes in Unity and Unreal Engine. I’ve shipped a **commercial real-money casino title** as the gameplay programmer and contributed features to a **Steam racing game**. On the Unreal side, I develop C++ gameplay prototypes focused on AI, movement, and combat.
+I'm a Gameplay Programmer working primarily with Unity (C#), with hands-on experience building and maintaining shipped games in production environments.
 
-### What I work on
-- **Gameplay systems** with clean, modular architecture  
-- **Responsive controls** and strong gameplay feel  
-- **Tools & pipelines** that speed up team development  
-- **Production-ready features** delivered under real constraints  
+I focus on writing clear, maintainable gameplay code, owning systems end-to-end, and integrating features into existing codebases where stability, iteration speed, and player-facing impact matter.
 
-### On this GitHub
-You’ll find prototypes, gameplay systems, and experiments across Unity and UE5 (C++), as I continuously refine and expand my craft.
+## What I do  
+
+- Implement gameplay systems and features in Unity (C#)
+- Work inside existing production codebases
+- Own features from implementation to live delivery
+- Build modular, event‑driven systems that support fast iteration
+- Troubleshoot and fix urgent gameplay issues in live environments
+
+## Tech Stack  
+
+- Unity / C#
+- WebGL / WebGPU
+- Socket.IO
+- JavaScript
+- Unreal Engine 5 (C++)
+
+## How I work  
+
+- Strong sense of ownership
+- Comfortable working under production pressure
+- Prefer pragmatic solutions over over‑engineering
+- Care about code clarity, but prioritize shipped results
 
 ---
