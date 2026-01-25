@@ -1,6 +1,6 @@
-👋 Hi, I’m John — Gameplay Programmer (Unity / C#)
+👋 Hi, I’m John - Gameplay Programmer
 
-I work on gameplay systems and player-facing features inside existing production codebases.
+I design and implement gameplay systems and player-facing features, both from the ground up and within existing production codebases.
 My focus is on clear, maintainable code, end-to-end ownership of features, and shipping reliable gameplay under production constraints.
 
-I value collaboration, pragmatic solutions, and code that is easy to read, review, and extend inside a team.
+I value collaboration, practical solutions, and code that is easy to read, review, and extend inside a team.
